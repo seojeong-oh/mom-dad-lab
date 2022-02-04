@@ -1,1 +1,2 @@
-object detection - redball
+Hello 
+My name is seo-jeong
