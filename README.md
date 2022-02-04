@@ -1,2 +1,1 @@
-Hello 
-My name is seo-jeong
+This file is image classification code
