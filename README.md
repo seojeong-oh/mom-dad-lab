@@ -1,1 +1,1 @@
-# **This repositories is result of MOM&DAD LAB **
+# This repositories is result of MOM&DAD LAB
